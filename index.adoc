@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: Wenn Sie sich auf das Verschieben, Migrieren oder Klonen von Dateisystemdaten vorbereiten, müssen Sie zunächst feststellen, was vorhanden ist. Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.  
+---
+= BlueXP Migrationsberichte
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

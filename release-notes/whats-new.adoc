@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: 'reports what"s new, bluexp' 
+summary: Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Strukturen, größten Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+---
+= Was ist neu
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Informieren Sie sich über die Neuerungen bei BlueXP Migrationsberichten.
+
+
+
+== 02 Juni 2023
+
+Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Strukturen, größten Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.
+
+Mit diesen Informationen wissen Sie vorab, dass der Prozess, den Sie verwenden möchten, Ihren Bestand effizient und erfolgreich handhaben kann.
+
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html["Erfahren Sie mehr über die BlueXP Migrationsberichte"].

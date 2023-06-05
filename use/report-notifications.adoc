@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: use/report-notifications.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Mit dem BlueXP Migrations-Reports-Service können Sie Benachrichtigungen festlegen, um Sie bei der Generierung eines neuen Berichts zu benachrichtigen. 
+---
+= Aktivieren Sie Berichtsbenachrichtigungen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Beim BlueXP Migrations-Reporting Service wird eine Benachrichtigung in den BlueXP Benachrichtigungen oben rechts auf der BlueXP Seite angezeigt.
+
+Sie können Benachrichtigungen auch so einrichten, dass Benutzer per E-Mail benachrichtigt werden, wenn ein neuer Bericht erstellt wird. Dazu müssen Sie die Benachrichtigungseinstellung „Info“ auswählen.
+
+.Schritte
+. Wählen Sie im linken Navigationsgerät von BlueXP *Storage* > *Canvas* aus.
+. Um die Benachrichtigungen anzuzeigen, wählen Sie oben rechts das Benachrichtigungssymbol *Glocke*.
+. Gehen Sie wie folgt vor, um eine E-Mail-Benachrichtigung zu aktivieren:
++
+.. Wählen Sie die *Einstellungen* ... Auf der rechten Seite und wählen Sie *Alerts and Notification Settings*.
+.. Wählen Sie die Registerkarte *zusätzliche Empfänger* aus.
+.. Erweitern Sie die Zeile in der Spalte Benachrichtigungen durch Auswahl des Pfeils.
+.. Wählen Sie für die Benachrichtigungsebene *Info*.
++
+image:notifications-email-info-option.png["In dieser Abbildung wird die Benachrichtigungsoption für Info angezeigt"]
+
+
+
+

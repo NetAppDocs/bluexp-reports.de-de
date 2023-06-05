@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Sie können einen Bericht löschen, wenn er einen Fehler enthielt, den Sie behoben haben, oder Sie diesen Bericht nicht mehr benötigen. 
+---
+= Löschen Sie einen Bericht
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Sie können einen Bericht löschen, wenn er einen Fehler enthielt, den Sie behoben haben, oder Sie diesen Bericht nicht mehr benötigen. Sie können eine oder mehrere Instanzen eines Berichts löschen.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
+. Wählen Sie im Dashboard „Berichte“ einen Bericht aus.
+. Wählen Sie in der Berichtszeile die Option *actions* … aus Und wählen Sie *Bericht löschen*.
+. Wenn mehrere Instanzen des Berichts vorhanden sind, wählen Sie diejenigen aus, die Sie löschen möchten, und wählen Sie *Löschen*.
++
+image:report-delete-multiple.png["Dieses Bild zeigt die Seite Löschen, mit der Sie mehrere Berichte löschen können"]
+
+. Wählen Sie *Löschen*, um den Löschvorgang zu bestätigen.
+

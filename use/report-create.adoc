@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/report-create.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+---
+= Erstellen Sie einen Bericht
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Sie können einen Volume-Bericht erstellen, der die Anzahl der Dateien, Dateien in Verzeichnissen, symbolische Links, harte Links, größte Dateigrößen, Und vieles mehr.
+
+Bei jeder Erstellung eines Berichts scannt der BlueXP Migrationsservice den Pfad und kompiliert die Daten. Mit derselben Berichtsdefinition können Sie mehrere Instanzen dieses Berichts erstellen.
+
+Der BlueXP Migrationsservice zeigt Daten nach Volumes an.
+
+Sie können jeweils nur einen Bericht erstellen.
+
+Sie können den Bericht auch als PDF-Datei herunterladen.
+
+
+TIP: Alle Vorgänge in BlueXP Migrationsberichten werden in der BlueXP Zeitleiste aufgelistet. Um die Timeline anzuzeigen, wählen Sie BlueXP *Einstellungen* > *Timeline*.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
+. Wählen Sie *Neuen Bericht Erstellen*.
+. Geben Sie einen Berichtsnamen ein.
+. Wählen Sie eine Arbeitsumgebung aus der Dropdown-Liste aus.
++
+Nur die in BlueXP aktiven und aktivierten Umgebungen werden in der Liste der Arbeitsumgebungen aufgeführt.
+
++
+
+TIP: Der BlueXP Connector muss Zugriff auf die Daten-LIF des Volumes haben, um auf die Daten zugreifen zu können.
+
++
+Informationen zum Aktivieren einer Umgebung finden Sie unter https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required["Erfahren Sie mehr über Connectors in der BlueXP Dokumentation"].
+
+. Suchen Sie über das Symbol *Suchen* nach dem Volume, auf dem Sie einen Bericht erstellen möchten, oder wählen Sie es aus der Liste aus.
+. Wählen Sie das Volume aus.
+. Wählen Sie *Bericht erstellen*.
++
+Der BlueXP Migrations-Berichtsservice generiert den Bericht und führt ihn in der Berichtliste auf.
+
+. Um den Bericht anzuzeigen, wählen Sie die Option *actions* ... Auf der rechten Seite und wählen Sie *Bericht anzeigen*.
+. Um eine PDF-Datei des Berichts herunterzuladen, wählen Sie die Option *Aktionen* ... Und wählen Sie *Bericht herunterladen*.
+. Um eine weitere Instanz desselben Berichts zu generieren, wählen Sie die Berichtszeile aus und wählen Sie auf der rechten Seite *Bericht hinzufügen* aus.
+

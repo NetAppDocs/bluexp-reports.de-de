@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, reports service log in 
+summary: Erste Schritte mit BlueXP Migrationsberichten durch Zugriff auf den Service in BlueXP. 
+---
+= BlueXP Migrationsberichte aufrufen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Der Zugriff auf BlueXP ist über Ihren Webbrowser über die SaaS-basierte Benutzeroberfläche von BlueXP möglich.
+
+Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
+
+.Schritte
+. Öffnen Sie einen Webbrowser, und rufen Sie den auf https://console.bluexp.netapp.com/["BlueXP-Konsole"^].
++
+Die Anmeldeseite für NetApp BlueXP wird angezeigt.
+
+. Melden Sie sich bei BlueXP an.
+. Führen Sie einen der folgenden Schritte aus:
++
+** Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
+** Wählen Sie auf dem BlueXP Bildschirm Ihre Arbeitsumgebung aus. Wählen Sie im rechten Fensterbereich *Reports* > *Cluster-Berichte anzeigen*.
++
+Wenn Sie keine Berichte erstellt haben, wird eine Landing Page angezeigt. Wenn Sie Berichte erstellt haben, wird die Berichtsliste angezeigt. Wenn Sie im rechten Bereich von BlueXP Canvas einen bestimmten Cluster ausgewählt haben, werden Berichte nur für diesen Cluster gefiltert.
+
+
+
++
+image:reports-landing.png["Dieses Bild zeigt die Landing Page des Dienstes"]
+
+

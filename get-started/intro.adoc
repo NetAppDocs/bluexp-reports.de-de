@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how BlueXP migration reports works, reports, bluexp 
+summary: Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+---
+= Erfahren Sie mehr über BlueXP Migrationsberichte
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+Wenn Sie sich auf das Verschieben, Migrieren oder Klonen von Dateisystemdaten vorbereiten, müssen Sie zunächst feststellen, was vorhanden ist. Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. Mit diesen Informationen wissen Sie vorab, dass der Prozess, den Sie verwenden möchten, Ihren Bestand effizient und erfolgreich handhaben kann.
+
+Der BlueXP Migrationsservice zeigt Informationen für NFS und AWS S3 Arbeitsumgebungen an.
+
+
+
+== Vorteile der BlueXP Migrationsberichte
+
+Der BlueXP Migrationsservice für Migrationsberichte bietet die folgenden Vorteile:
+
+* Bietet einen einfachen Prozess zur Ermittlung des Datensicherheitsstatus Ihrer Arbeitsumgebung
+* Bietet eine Speicherlandschaft
+* Weniger Zeitaufwand für die Ermittlung von zusätzlichem Storage-Bedarf
+
+
+
+
+== Funktionen von BlueXP Migrationsberichten
+
+BlueXP Migrationsberichte ermöglichen Folgendes:
+
+* Erstellen von Berichten
+* Ermitteln Sie mithilfe der Diagramme zur Berichtsverteilung, wie sich die Daten von einem Berichtsdatum zu einem anderen geändert haben.
+* Aktivieren Sie E-Mail-Benachrichtigungen zur Berichterstellung.
+* Berichte löschen.
+
+
+
+
+== Kosten
+
+NetApp berechnet Ihnen keine Kosten für die Nutzung des Service.
+
+
+
+== Lizenzierung
+
+Eine NetApp Lizenzdatei (NetApp License File, NLF) ist nicht erforderlich.

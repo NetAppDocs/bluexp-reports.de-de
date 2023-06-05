@@ -1,0 +1,38 @@
+---
+indexpage:
+  lead: Wenn Sie sich auf das Verschieben, Migrieren oder Klonen von Dateisystemdaten
+    vorbereiten, müssen Sie zunächst feststellen, was vorhanden ist. Mit dem BlueXP
+    Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen,
+    symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte
+    Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.
+  tiles:
+  - title: Los geht's
+    links:
+    - title: Erfahren Sie mehr über BlueXP Migrationsberichte
+      url: "/get-started/intro.html"
+    - title: Was ist neu an den BlueXP Migrationsberichten
+      url: "/release-notes/whats-new.html"
+    - title: Schnellstart
+      url: "/get-started/quick-start.html"
+    - title: Voraussetzungen
+      url: "/get-started/prerequisites.html"
+    - title: Melden Sie sich bei den BlueXP Migrationsberichten an
+      url: "/get-started/login.html"
+    - title: Häufig gestellte Fragen
+      url: "/get-started/faq.html"
+  - title: BlueXP Migrationsberichte nutzen
+    links:
+    - title: Berichtsübersicht
+      url: "/use/report-overview.html"
+    - title: Erstellen Sie einen Bericht
+      url: "/use/report-create.html"
+    - title: Zeigen Sie ein Beispiel für einen Bericht an
+      url: "/use/report-sample.html"
+    - title: Löschen Sie einen Bericht
+      url: "/use/report-delete.html"
+  - title: Blogs und Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud-Webinare
+      url: https://bluexp.netapp.com/events

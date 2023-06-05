@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: use/report-overview.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+---
+= Berichtsübersicht
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.
+
+Der BlueXP Migrationsservice für Migrationsberichte zeigt Daten nach Volumes an.
+
+Die BlueXP Migrationsberichte ermöglichen Ihnen das Erreichen der folgenden Ziele:
+
+* link:../use/report-create.html["Erstellen Sie einen Bericht"]
+* link:../use/report-notifications.html["Aktivieren Sie Benachrichtigungen"]
+* link:../use/report-delete.html["Löschen Sie einen Bericht"]
+

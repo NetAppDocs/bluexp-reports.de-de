@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, reports, storage, inventory, volumes 
+summary: Um BlueXP Migrationsberichte zu verwenden, führen Sie ein paar Schritte zur Einrichtung durch. 
+---
+= BlueXP Migrationsberichte einrichten
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Sie müssen den BlueXP Migrations-Reports-Service nicht konfigurieren. Die Option für BlueXP Migrationsberichte wird automatisch aktiviert und in der linken Navigation von BlueXP angezeigt.

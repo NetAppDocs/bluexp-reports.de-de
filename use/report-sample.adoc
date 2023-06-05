@@ -1,0 +1,66 @@
+---
+sidebar: sidebar 
+permalink: use/report-sample.html 
+keywords: BlueXP migration reports, volume reports 
+summary: Sehen Sie sich einen Beispielbericht an und erfahren Sie, was die Daten zeigen. 
+---
+= Einen Beispielbericht anzeigen – den Volumenbericht
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Sehen Sie sich einen Beispielbericht zu Volumes an und erfahren Sie, was die Daten zeigen.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
+. Um den Bericht anzuzeigen, wählen Sie die Option *actions* ... Auf der rechten Seite und wählen Sie *Bericht anzeigen*.
++
+image:sample-volumes-top.png["Dieses Bild zeigt den oberen Teil eines Bände-Beispielberichts"]
+
++
+image:sample-volumes-middle.png["Dieses Bild zeigt die Mitte eines Bände-Beispielberichts"]
+
++
+image:sample-volumes-middle-b.png["Dieses Bild zeigt den nächsten Abschnitt in der Mitte eines Bände-Beispielberichts"]
+
+. Um zu erfahren, was die Spalten bedeuten, bewegen Sie den Mauszeiger über einige der Informationen.
+. Um den Bericht im CSV-Format anzuzeigen, wählen Sie die Option *actions* ... Option auf der rechten Seite und wählen Sie *PDF anzeigen*.
+. Berichtsinformationen anzeigen:
++
+** *Maximum* > *Gesamttiefe*: Die größte Anzahl von Unterverzeichnissen, die innerhalb eines Verzeichnisses im Volume verschachtelt sind. Im Beispiel Directory/subdirectory2 ist die Tiefe 2.
+** *Maximum* > *maximale Gesamtbreite*: Die größte Anzahl von Elementen in den Verzeichnissen des Volumes. Ein Element ist eine Datei, ein Unterverzeichnis, ein symbolischer Link oder ein harter Link.
+** *Maximum* > *Longest Path*: Der längste Unterverzeichnis-Pfad plus Dateiname im Volume.
+** *Maximum* > *Directories*: Die Anzahl der Verzeichnisse im größten Verzeichnis.
+** *Maximum* > *Files*: Die Anzahl der Dateien im größten Verzeichnis. Es könnte ein anderes Verzeichnis mit mehr Dateien geben, aber es ist nicht das größte Verzeichnis im Baum.
+** *Zugriffszeit*: Das letzte Mal, wenn auf die Dateien zugegriffen wurde.
+** *Änderungszeit*: Das letzte Mal, wenn auf die Datei-Metadaten, zum Beispiel Berechtigungen, zugegriffen wurde.
+** *Änderungszeit*: Das letzte Mal, dass der Inhalt der Dateien geändert wurde.
+** *Top 5 Fehlergründe*: Die 5 häufigsten Fehlergründe, die während des Volumenscans gefunden wurden. Ein Bericht kann beispielsweise Fehler enthalten, die sich auf nicht vorhandene oder falsche Zugriffsberechtigungen oder die fehlenden Dateien beziehen. Diese Art von Fehler kann sich auf den Scan des gesamten Satzes von Dateien und Verzeichnissen auswirken. Nachdem Sie die Fehlerliste angezeigt haben, können Sie die Probleme beheben und den Bericht erneut ausführen.
+** *Top 5 Verzeichnisse und Dateien*: Die Verzeichnisse mit der 5 größten Anzahl von Verzeichnissen oder den größten Dateigrößen im Volumen.
+
+
+. Um zum Dashboard „Berichte“ zurückzukehren, wählen Sie in den Paniermehl die Option *Berichte* aus.
+
+
+
+
+=== Zeigen Sie die Informationen zur Verteilung von Berichten an
+
+Möglicherweise müssen Sie wissen, wie sich die Daten von einem Berichtsdatum in ein anderes geändert haben. Dies können Sie mithilfe der Diagramme zur Berichtsverteilung tun.
+
+Die Informationen zur Verteilung von Berichten sind nur für abgeschlossene Berichte verfügbar und nur, wenn mindestens zwei abgeschlossene Berichte vorliegen.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
+. Wählen Sie einen Bericht aus.
+. Wählen Sie im Menü Aktionen auf der rechten Seite die Option *Berichtsverteilung anzeigen*.
+. Berichtsverteilung anzeigen:
++
+** *Verteilung über die Zeit (Gesamtgröße)*: Die Größe des Volumens an verschiedenen Daten.
+** *Verteilung über die Zeit (Total Items)*: Die Anzahl der Dateien, Ordner, Links und Verzeichnisse zu verschiedenen Daten.
+
+
+
