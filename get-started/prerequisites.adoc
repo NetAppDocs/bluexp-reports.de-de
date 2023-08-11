@@ -18,6 +18,6 @@ Der BlueXP Migrations-Reports Service bietet folgende Voraussetzungen:
 
 * Zugriff auf die Daten-LIF im Cloud Volumes ONTAP Azure NetApp Files, Amazon FSX for NetApp ONTAP oder On-Premises-Arbeitsumgebungen
 * Verwendung von ONTAP 9.7 oder höher
-* Einrichtung des BlueXP Connectors in NetApp BlueXP zur Management-LIF Informationen finden Sie in der BlueXP Dokumentation auf https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP Connector konfigurieren"].
+* Einrichtung des BlueXP Connectors in NetApp BlueXP zur Cluster-Management-LIF Die Cluster-Management-LIF ist eine virtuelle Netzwerkschnittstelle, über die Sie Cluster-Managementvorgänge durchführen können. Informationen finden Sie in der BlueXP Dokumentation auf https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP Connector konfigurieren"].
 * Standard https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP Anforderungen erfüllt"]
 
