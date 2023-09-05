@@ -16,6 +16,12 @@ Informieren Sie sich über die Neuerungen bei BlueXP Migrationsberichten.
 
 
 
+== 03 September 2023
+
+Der aktualisierte BlueXP Migrations-Reports-Service bietet Updates für die Berichtsdaten. Berichte enthalten jetzt die zugewiesene Kapazität.
+
+
+
 == 02 Juni 2023
 
 Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Strukturen, größten Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.

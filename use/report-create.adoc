@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/report-create.html 
 keywords: BlueXP migration reports, volume reports 
-summary: Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Bäume, größte Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+summary: Mit dem BlueXP Migrationsbericht-Service können Sie einen Volume-Bericht erstellen, der die Anzahl der Dateien, Dateien in Verzeichnissen, symbolische Links, Hard-Links und größte Dateigrößen anzeigt. zugewiesene Kapazität und vieles mehr. 
 ---
 = Erstellen Sie einen Bericht
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Mit dem BlueXP Migrationsberichterstattung-Service können Sie die Anza
 
 
 [role="lead"]
-Sie können einen Volume-Bericht erstellen, der die Anzahl der Dateien, Dateien in Verzeichnissen, symbolische Links, harte Links, größte Dateigrößen, Und vieles mehr.
+Sie können einen Volume-Bericht erstellen, der die Anzahl der Dateien, Dateien in Verzeichnissen, symbolische Links, harte Links, größte Dateigrößen, zugewiesene Kapazität und vieles mehr.
 
 Bei jeder Erstellung eines Berichts scannt der BlueXP Migrationsservice den Pfad und kompiliert die Daten. Mit derselben Berichtsdefinition können Sie mehrere Instanzen dieses Berichts erstellen.
 
@@ -47,6 +47,23 @@ Informationen zum Aktivieren einer Umgebung finden Sie unter https://docs.netapp
 Der BlueXP Migrations-Berichtsservice generiert den Bericht und führt ihn in der Berichtliste auf.
 
 . Um den Bericht anzuzeigen, wählen Sie die Option *actions* ... Auf der rechten Seite und wählen Sie *Bericht anzeigen*.
-. Um eine PDF-Datei des Berichts herunterzuladen, wählen Sie die Option *Aktionen* ... Und wählen Sie *Bericht herunterladen*.
-. Um eine weitere Instanz desselben Berichts zu generieren, wählen Sie die Berichtszeile aus und wählen Sie auf der rechten Seite *Bericht hinzufügen* aus.
++
+image:report-sample-volumes-top-total-items.png["Dieses Bild zeigt den oberen Teil eines Beispielberichts und die Registerkarte „Total Items“"]
+
+. Wählen Sie eine der folgenden Optionen:
++
+** Um eine PDF-Datei des Berichts anzuzeigen und herunterzuladen, wählen Sie die Option *Aktionen* ... Und wählen Sie *Bericht herunterladen*.
+** Um eine weitere Instanz desselben Berichts zu generieren, wählen Sie die Berichtszeile aus und wählen Sie auf der rechten Seite *Bericht hinzufügen* aus.
+** Um Informationen zu allen Elementen anzuzeigen, wählen Sie die Registerkarte *Total Items*.
+** Um nur Informationen zur zugewiesenen Kapazität anzuzeigen, wählen Sie die Registerkarte *zugewiesene Kapazität*.
+** Um den Verteilungsbericht anzuzeigen, wählen Sie im Menü Aktionen auf der rechten Seite *Berichtsverteilung anzeigen*.
++
+
+TIP: Die Informationen zur Verteilung von Berichten sind nur für abgeschlossene Berichte verfügbar und nur, wenn mindestens zwei abgeschlossene Berichte vorliegen.
+
+
+
++
+image:report-sample-volumes-distribution.png["Dieses Bild zeigt den oberen Teil eines Berichts zur Verteilung von Probenvolumina"]
+
 

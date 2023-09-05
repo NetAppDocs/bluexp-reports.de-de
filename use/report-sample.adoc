@@ -16,9 +16,8 @@ Sehen Sie sich einen Beispielbericht zu Volumes an und erfahren Sie, was die Dat
 
 .Schritte
 . Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
-. Um den Bericht anzuzeigen, wählen Sie die Option *actions* ... Auf der rechten Seite und wählen Sie *Bericht anzeigen*.
 +
-image:sample-volumes-top.png["Dieses Bild zeigt den oberen Teil eines Bände-Beispielberichts"]
+image:report-sample-volumes-top-total-items.png["Dieses Bild zeigt den oberen Teil eines Beispielberichts und die Registerkarte „Total Items“"]
 
 +
 image:sample-volumes-middle.png["Dieses Bild zeigt die Mitte eines Bände-Beispielberichts"]
@@ -27,7 +26,17 @@ image:sample-volumes-middle.png["Dieses Bild zeigt die Mitte eines Bände-Beispi
 image:sample-volumes-middle-b.png["Dieses Bild zeigt den nächsten Abschnitt in der Mitte eines Bände-Beispielberichts"]
 
 . Um zu erfahren, was die Spalten bedeuten, bewegen Sie den Mauszeiger über einige der Informationen.
-. Um den Bericht im CSV-Format anzuzeigen, wählen Sie die Option *actions* ... Option auf der rechten Seite und wählen Sie *PDF anzeigen*.
+. Wählen Sie eine der folgenden Optionen:
++
+** Um eine PDF-Datei des Berichts anzuzeigen und herunterzuladen, wählen Sie die Option *Aktionen* ... Und wählen Sie *Bericht herunterladen*.
+** Um eine weitere Instanz desselben Berichts zu generieren, wählen Sie die Berichtszeile aus und wählen Sie auf der rechten Seite *Bericht hinzufügen* aus.
+** Um Informationen zu allen Elementen anzuzeigen, wählen Sie die Registerkarte *Total Items*.
+** Um nur Informationen zur zugewiesenen Kapazität anzuzeigen, wählen Sie die Registerkarte *zugewiesene Kapazität*.
++
+image:report-sample-volumes-top-capacity.png["Dieses Bild zeigt den oberen Teil eines Beispielberichts zum Volumen und die Registerkarte Zugeordnete Kapazität"]
+
+
+
 . Berichtsinformationen anzeigen:
 +
 ** *Maximum* > *Gesamttiefe*: Die größte Anzahl von Unterverzeichnissen, die innerhalb eines Verzeichnisses im Volume verschachtelt sind. Im Beispiel Directory/subdirectory2 ist die Tiefe 2.
@@ -52,6 +61,8 @@ image:sample-volumes-middle-b.png["Dieses Bild zeigt den nächsten Abschnitt in 
 Möglicherweise müssen Sie wissen, wie sich die Daten von einem Berichtsdatum in ein anderes geändert haben. Dies können Sie mithilfe der Diagramme zur Berichtsverteilung tun.
 
 Die Informationen zur Verteilung von Berichten sind nur für abgeschlossene Berichte verfügbar und nur, wenn mindestens zwei abgeschlossene Berichte vorliegen.
+
+image:report-sample-volumes-distribution.png["Dieses Bild zeigt den oberen Teil eines Berichts zur Verteilung von Probenvolumina"]
 
 .Schritte
 . Wählen Sie in der linken Navigationsleiste von BlueXP *Storage* > *Migrationsberichte* aus.
