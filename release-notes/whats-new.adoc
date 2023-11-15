@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Strukturen, größten Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln. 
+summary: Erfahren Sie, was an den BlueXP Migrationsberichten neu ist. 
 ---
 = Was ist neu
 :hardbreaks:
@@ -12,7 +12,13 @@ summary: Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie di
 
 
 [role="lead"]
-Informieren Sie sich über die Neuerungen bei BlueXP Migrationsberichten.
+Erfahren Sie, was an den BlueXP Migrationsberichten neu ist.
+
+
+
+== Bis 13. November 2023
+
+Sie können jetzt Berichte für Volumes erstellen, die das SMB/CIFS-Protokoll verwenden.
 
 
 

@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Einschränkungen</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">Mit dem neuen BlueXP Migrationsberichterstattung-Service können Sie die Anzahl an Dateien, Verzeichnissen, symbolischen Links, Hardlinks, die Tiefe und Breite der Filesystem-Strukturen, größten Dateien und mehr in Ihrer Storage-Landschaft schnell ermitteln.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Was ist neu</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">Informieren Sie sich über die Neuerungen bei BlueXP Migrationsberichten.</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">02 Juni 2023</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">Mit diesen Informationen wissen Sie vorab, dass der Prozess, den Sie verwenden möchten, Ihren Bestand effizient und erfolgreich handhaben kann.</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">Erfahren Sie mehr über die BlueXP Migrationsberichte</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Unterstützung für Fileservices von Cloud-Providern</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Technischen Support zu Fileservices von Cloud-Providern, zu seiner Infrastruktur oder zu beliebigen Lösungen, die den Service verwenden, finden Sie im Abschnitt „Hilfe erhalten“ in der BlueXP Dokumentation zu diesem Produkt.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Wenn Sie technischen Support für BlueXP und seine Storage-Lösungen und -Services erhalten möchten, nutzen Sie die unten beschriebenen Support-Optionen.</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">Erfahren Sie, was an den BlueXP Migrationsberichten neu ist.</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">Bis 13. November 2023</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">Sie können jetzt Berichte für Volumes erstellen, die das SMB/CIFS-Protokoll verwenden.</block>
 </blocks>
